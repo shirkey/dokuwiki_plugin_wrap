@@ -6,7 +6,7 @@ Screen Styles for the Wrap Plugin (additional to all.css)
 ********************************************************************/
 
 .dokuwiki .wrap_box {
-    background: __background_alt__;
+/*    background: __background_alt__;*/
     color: __text__;
 }
 .dokuwiki div.wrap_box,
